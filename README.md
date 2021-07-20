@@ -21,13 +21,14 @@ Desarrollado en Visual Studio Code
 
 ## Wiki 📖
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestro [GitHub](https://github.com/luisc111/)
+Puedes encontrar mucho más de cómo utilizar este proyecto en mi [GitHub](https://github.com/luisc111/)
 
 
-## Autores ✒️
+## Autor ✒️
 
----
 ⌨️ Hecho con ❤️ por [Luis](https://github.com/luisc111/) 😊
+---
+
 
 <img src="iMake.png" alt="iMake"/>
 
