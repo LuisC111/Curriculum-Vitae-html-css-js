@@ -26,8 +26,8 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en mi [GitHub](https
 
 ## Autor ✒️
 
-⌨️ Hecho con ❤️ por [Luis](https://github.com/luisc111/) 😊
 ---
+⌨️ Hecho con ❤️ por [Luis](https://github.com/luisc111/) 😊
 
 
 <img src="iMake.png" alt="iMake"/>
